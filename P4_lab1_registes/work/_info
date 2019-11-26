@@ -1,0 +1,188 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/akira/Documents/PractiquesDDB/p3_lab2_circuit
+Ebdp
+Z0 w1574729802
+Z1 dC:/Users/akira/Documents/PractiquesDDB/P4_lab1_registes
+Z2 8C:/Users/akira/Documents/PractiquesDDB/P4_lab1_registes/P4_Torquet_Luna_Nuria.vhd
+Z3 FC:/Users/akira/Documents/PractiquesDDB/P4_lab1_registes/P4_Torquet_Luna_Nuria.vhd
+l0
+L89
+V_R2J>G;Wb`Nb;Jl1OTbT^2
+!s100 `aSVQE[femVbmC[z7YgW10
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1574729806
+!i10b 1
+Z6 !s108 1574729805.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/akira/Documents/PractiquesDDB/P4_lab1_registes/P4_Torquet_Luna_Nuria.vhd|
+Z8 !s107 C:/Users/akira/Documents/PractiquesDDB/P4_lab1_registes/P4_Torquet_Luna_Nuria.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+Atest
+Z11 DEx4 work 8 registre 0 22 MiP]1lEzU0cGIH<N4INdh0
+Z12 DEx4 work 3 bdp 0 22 _R2J>G;Wb`Nb;Jl1OTbT^2
+l102
+L92
+Vc1Cln7AmPYnTl[FRQiNF=1
+!s100 jCSEjnUKo694=a^`F<:;o1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eff_d
+R0
+R1
+R2
+R3
+l0
+L28
+V`J0z:zmgG88=Mz6kOg8hO3
+!s100 P9XH7^IMGLTB]hBHLXWaC2
+R4
+32
+Z13 !s110 1574729805
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Aifthen
+Z14 DEx4 work 4 ff_d 0 22 `J0z:zmgG88=Mz6kOg8hO3
+l35
+L34
+Z15 V<l=0hLPaHl1VQP8kUze0I0
+Z16 !s100 m_Lz6RFR1kRILjMPZGbTz2
+R4
+32
+R13
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Emux4a1
+R0
+R1
+R2
+R3
+l0
+L2
+VNRE^U<nbh:L>AB`9T9k;P3
+!s100 CnQ7Boe;0]4AhJ`0JCaak2
+R4
+32
+R13
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Alogica_retard
+Z17 DEx4 work 6 mux4a1 0 22 NRE^U<nbh:L>AB`9T9k;P3
+l22
+L21
+Z18 Vk`2KlF7Ae7^MjGI>4DTkU3
+Z19 !s100 SoEIf3l5`faGJC4Dl2M@O1
+R4
+32
+R13
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Aifthen
+R17
+l10
+L9
+Z20 VLJ4;3T4;kNU8]Y6PSWNW@2
+Z21 !s100 A:No<z4OU32Wi6Oci370d3
+R4
+32
+R13
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eregiste
+w1574729678
+R1
+R2
+R3
+l0
+L45
+V;=zjhlIb2DD`eZei5TaGz0
+!s100 Z@BQi==X@H?ODamIDHI=01
+R4
+32
+!s110 1574729681
+!i10b 1
+!s108 1574729681.000000
+R7
+R8
+!i113 1
+R9
+R10
+Eregistre
+R0
+R1
+R2
+R3
+l0
+L45
+VMiP]1lEzU0cGIH<N4INdh0
+!s100 0:Cleg_20Qg9bW4=dXW3o3
+R4
+32
+R13
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Aestructural
+R14
+R17
+R11
+l75
+L51
+Z22 ViSWMG1QELdj?Y8d63^AAM1
+Z23 !s100 FRa;EZ=m=M=<QijT=K9Ua2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10

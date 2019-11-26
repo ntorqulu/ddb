@@ -1,0 +1,18 @@
+C:/Users/akira/Documents/PractiquesDDB/P4_lab1_registes/P4_Torquet_Luna_Nuria.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/akira/Documents/PractiquesDDB/P4_lab1_registes/P4_Torquet_Luna_Nuria.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity mux4a1
+-- Compiling architecture ifthen of mux4a1
+-- Compiling architecture logica_retard of mux4a1
+-- Loading entity mux4a1
+-- Compiling entity FF_D
+-- Compiling architecture ifthen of FF_D
+-- Compiling entity registre
+-- Compiling architecture estructural of registre
+-- Loading entity mux4a1
+-- Loading entity FF_D
+-- Compiling entity bdp
+-- Compiling architecture test of bdp
+-- Loading entity registre
+
+} {} {}}
