@@ -1,0 +1,32 @@
+C:/Users/akira/Documents/PractiquesDDB/bdp_portes.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/akira/Documents/PractiquesDDB/bdp_portes.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity bdp_portes
+-- Compiling architecture test of bdp_portes
+-- Loading entity and2
+-- Loading entity and3
+-- Loading entity and4
+-- Loading entity or2
+-- Loading entity or3
+-- Loading entity or4
+-- Loading entity inversor
+
+} {} {}} C:/Users/akira/Documents/PractiquesDDB/funcionsLogiques.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/akira/Documents/PractiquesDDB/funcionsLogiques.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity and2
+-- Compiling entity and3
+-- Compiling entity and4
+-- Compiling entity or2
+-- Compiling entity or3
+-- Compiling entity or4
+-- Compiling entity inversor
+-- Compiling architecture logica of and2
+-- Compiling architecture logica of and3
+-- Compiling architecture logica of and4
+-- Compiling architecture logica of or2
+-- Compiling architecture logica of or3
+-- Compiling architecture logica of or4
+-- Compiling architecture logica of inversor
+
+} {} {}}
